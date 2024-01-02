@@ -1,6 +1,12 @@
 # AlbumsCollection
 
-The album collection is a react application using album collection API. In which user will be able to see the albums and they can add, update and delete the album.
+The album collection is a react application using album collection API. 
+In which user will be able to see the albums and they can add, update and delete the album.
+These is developed using React library.
+
+## Deployed On
+### Vercel
+<img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/Vercel-Dark.svg" width="50">
 
 ## Hosted Link
 [https://albumscollection-qm1e.onrender.com/](https://albums-collection-sepia.vercel.app/)
@@ -18,6 +24,8 @@ The AlbumsCollection is build using the following technologies:
 <p>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS Icon" width="50">
   <img src="https://github.com/AdityaLambat/skill-icons/raw/main/icons/JavaScript.svg" width="50">
+  <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/React-Dark.svg" width="50">
+  <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/Bootstrap.svg" width="50">
 </p>
 
 ## Getting Started
