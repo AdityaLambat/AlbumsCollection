@@ -9,7 +9,7 @@ These is developed using React library.
 <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/Vercel-Dark.svg" width="50">
 
 ## Hosted Link
-[https://albumscollection-qm1e.onrender.com/](https://albums-collection-sepia.vercel.app/)
+https://albums-collection-sepia.vercel.app/
 
 ## Features
 
