@@ -15,8 +15,10 @@ The album collection is a react application using album collection API. In which
 
 The AlbumsCollection is build using the following technologies:
 
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS Icon" width="50">
-<img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/JavaScript.svg" width="50">
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS Icon" width="50">
+  <img src="https://github.com/AdityaLambat/skill-icons/raw/main/icons/JavaScript.svg" width="50">
+</p>
 
 ## Getting Started
 
