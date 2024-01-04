@@ -1,8 +1,10 @@
 # AlbumsCollection
 
-The album collection is a react application using album collection API. 
+<p align="justify">
+  The album collection is a react application using album collection API. 
 In which user will be able to see the albums and they can add, update and delete the album.
 These is developed using React library.
+</p>
 
 ## Deployed On
 ### Vercel
